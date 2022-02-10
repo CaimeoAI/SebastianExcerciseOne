@@ -1,0 +1,17 @@
+html {
+    margin: 0px;
+}
+
+body {
+    color: #EFEFEF;
+    background-color: #222529;
+}
+
+.first-unordered-list {
+    background-color: #000000;
+    list-style-type: "\1F363";
+}
+
+.first-unordered-list li {
+    font-size: 30px;
+}
